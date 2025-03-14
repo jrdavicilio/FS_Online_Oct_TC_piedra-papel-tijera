@@ -9,6 +9,11 @@ body {
   padding: 10px 20px;
   font-size: 16px;
   cursor: pointer;
+  border-radius: 5px;
+  font-weight: bold;
+}
+.boton-jugada:hover {
+  background-color: #2980b9;
 }
 #resultados {
   font-size: 20px;
